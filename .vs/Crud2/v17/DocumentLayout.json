@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "F:\\.Net\\Crud2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0AC1FD37-E498-4A67-8CA4-123ED5E4C187}|Crud2.TestProject\\Crud2.TestProject.csproj|f:\\.net\\crud2\\crud2.testproject\\controllertests\\icecreamcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC1FD37-E498-4A67-8CA4-123ED5E4C187}|Crud2.TestProject\\Crud2.TestProject.csproj|solutionrelative:crud2.testproject\\controllertests\\icecreamcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF76730E-6A67-4743-933C-4F4C31AB4B5E}|Crud2\\Crud2.csproj|f:\\.net\\crud2\\crud2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AF76730E-6A67-4743-933C-4F4C31AB4B5E}|Crud2\\Crud2.csproj|solutionrelative:crud2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF76730E-6A67-4743-933C-4F4C31AB4B5E}|Crud2\\Crud2.csproj|f:\\.net\\crud2\\crud2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF76730E-6A67-4743-933C-4F4C31AB4B5E}|Crud2\\Crud2.csproj|F:\\.Net\\Crud2\\crud2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF76730E-6A67-4743-933C-4F4C31AB4B5E}|Crud2\\Crud2.csproj|solutionrelative:crud2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF76730E-6A67-4743-933C-4F4C31AB4B5E}|Crud2\\Crud2.csproj|f:\\.net\\crud2\\crud2\\controllers\\icecreamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF76730E-6A67-4743-933C-4F4C31AB4B5E}|Crud2\\Crud2.csproj|F:\\.Net\\Crud2\\crud2\\controllers\\icecreamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF76730E-6A67-4743-933C-4F4C31AB4B5E}|Crud2\\Crud2.csproj|solutionrelative:crud2\\controllers\\icecreamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF76730E-6A67-4743-933C-4F4C31AB4B5E}|Crud2\\Crud2.csproj|f:\\.net\\crud2\\crud2\\models\\icecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF76730E-6A67-4743-933C-4F4C31AB4B5E}|Crud2\\Crud2.csproj|F:\\.Net\\Crud2\\crud2\\models\\icecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF76730E-6A67-4743-933C-4F4C31AB4B5E}|Crud2\\Crud2.csproj|solutionrelative:crud2\\models\\icecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,11 +30,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IceCreamControllerTest.cs",
+              "DocumentMoniker": "F:\\.Net\\Crud2\\Crud2.TestProject\\ControllerTests\\IceCreamControllerTest.cs",
+              "RelativeDocumentMoniker": "Crud2.TestProject\\ControllerTests\\IceCreamControllerTest.cs",
+              "ToolTip": "F:\\.Net\\Crud2\\Crud2.TestProject\\ControllerTests\\IceCreamControllerTest.cs",
+              "RelativeToolTip": "Crud2.TestProject\\ControllerTests\\IceCreamControllerTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T22:45:18.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\.Net\\Crud2\\Crud2\\appsettings.json",
               "RelativeDocumentMoniker": "Crud2\\appsettings.json",
@@ -43,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\.Net\\Crud2\\Crud2\\Program.cs",
               "RelativeDocumentMoniker": "Crud2\\Program.cs",
@@ -51,16 +72,11 @@
               "RelativeToolTip": "Crud2\\Program.cs",
               "ViewState": "AQIAAAMAAADg//////8gwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T06:47:17.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-03-26T06:47:17.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IceCream.cs",
               "DocumentMoniker": "F:\\.Net\\Crud2\\Crud2\\Models\\IceCream.cs",
               "RelativeDocumentMoniker": "Crud2\\Models\\IceCream.cs",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IceCreamController.cs",
               "DocumentMoniker": "F:\\.Net\\Crud2\\Crud2\\Controllers\\IceCreamController.cs",
               "RelativeDocumentMoniker": "Crud2\\Controllers\\IceCreamController.cs",
